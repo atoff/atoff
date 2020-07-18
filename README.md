@@ -1,4 +1,4 @@
-![banner image](https://github.com/atoff/atoff/blob/master/GH_Banner.png)
+![banner image](https://github.com/atoff/atoff/blob/master/gh_banner.png)
 
 I'm a aerospace design engineering student from Cambridge, United Kingdom, but learning out of Bristol. In addition to my studies, I am a passionate programmer and although I tend to work on web projects, I enjoy dabbling in mobile/desktop applications. 
 
