@@ -2,9 +2,10 @@
 
 This file is intended as a bookmark of all the tools and services that I have found and enjoy using for my projects
 
-## 🖼 Stock Imagery
+## 🖼 Stock Imagery & Image Manipulation
 * [Unsplash](https://unsplash.com/)
 * [Pixabay](https://pixabay.com/)
+* [Clipdrop](https://clipdrop.co/) - AI powered photo editing
 
 
 ## 📹 Stock Video
