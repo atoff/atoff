@@ -30,6 +30,7 @@ This file is intended as a bookmark of all the tools and services that I have fo
 
 ## 💻 Sysadmin
 * [Chmod Calculator](https://chmodcommand.com/)
+* [NCDU](https://dev.yorhel.nl/ncdu) - For disk size management
 
 
 ## 📈 Data Visualisation
