@@ -4,6 +4,6 @@
 - 💻 I'm interested in a range of full-stack web technologies and platforms
 - 📚 My core languages are PHP, TypeScript and Python
 - 🌱 I'm currently learning C# and Flutter
-- 💬 Ask me about Vue, Laravel
+- 💬 Ask me about Vue and Laravel
 
-![](https://github-readme-stats.vercel.app/api?username=atoff&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true)<br/>
+![Alex's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=atoff&theme=dark&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true)<br/>
