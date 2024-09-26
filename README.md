@@ -2,7 +2,7 @@
 
 - 🔧 I'm a engineer from Bristol, UK, working on motion simulation platforms
 - 💻 I'm interested in a range of full-stack web technologies and platforms
-- 📚 My core languages are PHP, TypeScript and Python
+- 📚 My core languages are PHP, TypeScript, Python, MATLAB/Simulink and TwinCAT ST
 - 🌱 I'm currently learning C# and Flutter
 - 💬 Ask me about Vue and Laravel
 
